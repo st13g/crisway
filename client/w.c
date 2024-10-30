@@ -54,3 +54,4 @@ int8_t main() {
   
   return 0;
 }
+//loading the registries
